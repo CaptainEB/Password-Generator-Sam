@@ -1,5 +1,7 @@
 # Password Generator Made By Sam
 
+Here's the live URL for the password generator: [Pswwrod Generator](https://captaineb.github.io/Password-Generator-Sam/)
+
 This application picks a random set of characters from the given options and generates a password.
 
 Here are some screenshots of the working application:
